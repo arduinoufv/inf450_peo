@@ -4,7 +4,7 @@ O material será organizado por semana, trabalhos e exercícios.
 
 # Semana
 
-Cronograma de aulas, links para os vídeos
+(Cronograma de aulas, links para os vídeos](https://github.com/arduinoufv/inf450_peo/tree/master/semana)
 
 # Exercícios
 

@@ -14,10 +14,17 @@ Provavelmente iremos usar um [editor online para correção](https://pdf-editor-
 
 [Fazer os exercicios e colocar em seu github](https://docs.google.com/document/d/14PrbRojTBc90UbCGLXvCdu3FTUqlCACutfnNreASuQo/edit?usp=sharing)
 
+Final de matricula: 0,1,2,3 - Usar desvio com atraso,  4,5,6 - Desvio especulativo, 7,8,9, Desvio no estagio EXEC
+
 ## 1.3 Loop Unrolling
 
-[Fazer os exercicios e colocar em seu github]()
+[Fazer os exercicios e colocar em seu github](https://docs.google.com/document/d/1iMePpBllLPABsJtC3P1knk6QhF9Mo2XuHR_l24cL4lw/edit?usp=sharing)
+
+Final de matricula: 7,8,9 - Usar desvio com atraso 0,1,2,3  - Desvio especulativo, 4,5,6 Desvio no estagio EXEC
 
 ## 1.4 Software Pipelining
+[Fazer os exercicios e colocar em seu github](https://docs.google.com/document/d/1LbthI70b_uY9qB2irACVuIqgD5aepvH7cg7C7HfyxBU/edit?usp=sharing)
+
+Final de matricula: 4,5,6 - Usar desvio com atraso 7,8,9   - Desvio especulativo, 0,1,2,3 Desvio no estagio EXEC
 
 ## 1.5 Escalonamento Dinâmico

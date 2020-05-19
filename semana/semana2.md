@@ -5,7 +5,7 @@
 
 # 2.2 Desvio Estático e Desvio com Atraso
 
-
+[Conceitos e Exemplos](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
 
 # 2.3 Desvio dinâmico
 
@@ -15,6 +15,10 @@
 # 2.4 Implementaçao de Desvio Dinamico 
 
 [Implementacao no pipeline basico do MIPS - Artigo](https://drive.google.com/open?id=1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH)
+
+[exercicio com a implementacao](https://docs.google.com/document/d/1B_Tgm2jjORC9FWF9B_-eNv3HVANv6HZmckI4YCqtS3I/edit?usp=sharing)
+
+
 
 [Meltdown e Spectre](https://drive.google.com/open?id=12JJtU2r4-oZVI7pVYsxbZrx6qh77Ru7d)
 

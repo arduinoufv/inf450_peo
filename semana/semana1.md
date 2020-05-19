@@ -12,13 +12,13 @@ Livro: RiscV Patterson/Hennessy
 
 [Material anterior - Video Março 2020](https://youtu.be/AksZXs9se8I)
 
-## 1.3 Múltiplas Unidades, Escalonamento Estático
+## 1.3 Múltiplas Unidades
 
-[Folha de atividades](https://docs.google.com/document/d/1_H4PROif7zX79emB2uQxAAEo2Fmr2UtkNiI1GcoOOvM/edit?usp=sharing)
+[Folha de atividades para multiplas unidades](https://docs.google.com/document/d/1_H4PROif7zX79emB2uQxAAEo2Fmr2UtkNiI1GcoOOvM/edit?usp=sharing)
 
 [ferramenta](http://www.ecs.umass.edu/ece/koren/architecture/windlx/main.html)
 
-## 1.4 Unroll e  Software Pipelining 
+## 1.4 Escalonamento Estatico, Unroll e  Software Pipelining 
 
 [slides](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) 
 
@@ -27,3 +27,7 @@ Livro: RiscV Patterson/Hennessy
 [Material anterior - Video Março 2020](https://youtu.be/gHNWyNlDLy0)
 
 ## 1.5 Escalonamento dinâmico 
+[slides](https://docs.google.com/document/d/1MgN7hzgopprK_OQvHwNxQX4h9oo6C0T2l3qC-AUrXXk/edit?usp=sharing)
+
+[wiki](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
+

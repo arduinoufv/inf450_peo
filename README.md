@@ -8,7 +8,7 @@ O material será organizado por semana, trabalhos e exercícios.
 
 # Exercícios
 
-Tarefas de cada semana com os prazos
+[Tarefas de cada semana com os prazos](https://github.com/arduinoufv/inf450_peo/tree/master/exercicio)
 
 # Trabalhos
 

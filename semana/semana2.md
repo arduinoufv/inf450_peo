@@ -14,6 +14,9 @@
 
 # 2.4 Implementaçao de Desvio Dinamico 
 
+[Slides da Implementacao](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing)
+
+
 [Implementacao no pipeline basico do MIPS - Artigo](https://drive.google.com/open?id=1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH)
 
 [exercicio com a implementacao](https://docs.google.com/document/d/1B_Tgm2jjORC9FWF9B_-eNv3HVANv6HZmckI4YCqtS3I/edit?usp=sharing)

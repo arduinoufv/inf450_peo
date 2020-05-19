@@ -8,7 +8,11 @@ Provavelmente iremos usar um [editor online para correção](https://pdf-editor-
 
 ## 1.1 Múltiplas Unidades Funcionais
 
+[Fazer os exercicios e colocar em seu github](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
+
 ## 1.2 Escalonamento Estático
+
+
 
 ## 1.3 Loop Unrolling
 

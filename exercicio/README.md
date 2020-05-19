@@ -12,9 +12,11 @@ Provavelmente iremos usar um [editor online para correção](https://pdf-editor-
 
 ## 1.2 Escalonamento Estático
 
-
+[Fazer os exercicios e colocar em seu github](https://docs.google.com/document/d/14PrbRojTBc90UbCGLXvCdu3FTUqlCACutfnNreASuQo/edit?usp=sharing)
 
 ## 1.3 Loop Unrolling
+
+[Fazer os exercicios e colocar em seu github]()
 
 ## 1.4 Software Pipelining
 

@@ -28,3 +28,8 @@ Final de matricula: 7,8,9 - Usar desvio com atraso 0,1,2,3  - Desvio especulativ
 Final de matricula: 4,5,6 - Usar desvio com atraso 7,8,9   - Desvio especulativo, 0,1,2,3 Desvio no estagio EXEC
 
 ## 1.5 Escalonamento Dinâmico
+
+[Fazer os exercicios e colocar em seu github](https://docs.google.com/document/d/1JEj7AfNjVGiLLP3w6dl_SSQEhomq2xYt8P81Bw6uPvI/edit?usp=sharing)
+
+Final de matricula: 4,5,6,7,8 - Usar desvio com atraso 0,1,2,3,9- Desvio especulativo
+

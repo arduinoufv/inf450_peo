@@ -31,3 +31,6 @@ Livro: RiscV Patterson/Hennessy
 
 [wiki](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
 
+## Material suplementar
+
+[slides do Prof. Onur Mutlu sobre execução fora de ordemhttps://safari.ethz.ch/digitaltechnik/spring2020/lib/exe/fetch.php?media=onur-digitaldesign-2020-lecture15a-out-of-order-execution-beforelecture.pdf](https://safari.ethz.ch/digitaltechnik/spring2020/lib/exe/fetch.php?media=onur-digitaldesign-2020-lecture15a-out-of-order-execution-beforelecture.pdf)

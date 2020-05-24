@@ -5,10 +5,14 @@ onde Sem numero da semana e  Num o numero do exercicio. Deixar a solução em PD
 
 Provavelmente iremos usar um [editor online para correção](https://pdf-editor-online.com/?keyword=pdf%20editor%20online&campaignid=8967420658&adgroupid=90145005066&gclid=CjwKCAjw5Ij2BRBdEiwA0Frc9Wg4kX131nlCKaIzLwybQZl_vch1OXWJC6bP2C867S0jPS0AK1PEDRoCEgcQAvD_BwE)
 
+A avaliação só pode ser feita uma única vez. Assista os vídeos da Semana 1 antes.
+
 
 ## 1.1 Múltiplas Unidades Funcionais
 
-[Fazer os exercicios e colocar em seu github](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
+[Fazer os exercicios e colocar em seu github, Depois faça a avaliação](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
+
+[Avaliação Individual - Só uma submissão pode ser feita](https://docs.google.com/forms/d/e/1FAIpQLSdKfbnEkU-fpPtYMtr0Z6kZp8bwLf6B1FGP2iGdhPP5hAm6OA/viewform?usp=sf_link)
 
 ## 1.2 Escalonamento Estático
 

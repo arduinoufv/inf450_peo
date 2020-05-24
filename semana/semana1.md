@@ -17,10 +17,10 @@ Livro: RiscV Patterson/Hennessy
 
 [Folha de atividades para multiplas unidades](https://docs.google.com/document/d/1_H4PROif7zX79emB2uQxAAEo2Fmr2UtkNiI1GcoOOvM/edit?usp=sharing)
 
-*[Primeiro Exemplo de Execução - Vídeo 5 minutos](https://youtu.be/F2JXO-GINOg)
-*[   Segundo e Terceiro Exemplos - Video 2 minutos](https://youtu.be/dHiv8k4JrPU)
-*[   Primeiro Exemplo com Loop - Video 2 minutos](https://youtu.be/8P2jy4S7qXA)
-*[___Segundo exemplo com loop - Video 2 minutos](https://youtu.be/2It4lGZth6Q)
+* [Primeiro Exemplo de Execução - Vídeo 5 minutos](https://youtu.be/F2JXO-GINOg)
+* [   Segundo e Terceiro Exemplos - Video 2 minutos](https://youtu.be/dHiv8k4JrPU)
+* [   Primeiro Exemplo com Loop - Video 2 minutos](https://youtu.be/8P2jy4S7qXA)
+* [___Segundo exemplo com loop - Video 2 minutos](https://youtu.be/2It4lGZth6Q)
 
 
 

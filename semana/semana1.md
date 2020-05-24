@@ -24,8 +24,10 @@ Livro: RiscV Patterson/Hennessy
 
 [Faça o exercício 1.1 e depois a avaliação](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex1.md)
 
+### Material suplementar
+[ferramenta](http://www.ecs.umass.edu/ece/koren/architecture/windlx/main.html)
 
-[ferramenta adicional](http://www.ecs.umass.edu/ece/koren/architecture/windlx/main.html)
+[Video 10 minutos em Ingles de Multiplas Unidades TU Berlime](https://www.youtube.com/watch?v=QosdsRx1cb4)
 
 ## 1.4 Escalonamento Estatico, Unroll e  Software Pipelining 
 

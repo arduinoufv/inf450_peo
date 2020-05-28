@@ -18,7 +18,13 @@ vídeo.
 * Gerar um relatório em PDF
 
 ## Técnicas de otimização de Loop
-
+* Fazer um unroll com fator 3, Executar 12 (4x3) iterações no [simulador WebRISCV](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php) 
+* Gravar vídeo de 1 minuto mostrando inicio e final da simulação
+* Codificar em binário para executar no processador [single cycle RISCV DigitalJS](...)
+* Gravar vídeo de 1 minuto mostrando inicio e final da simulação
+* Gerar um relatório em PDF com total de instruções, CPI, Stall e desvios.
 
 ## Implementação do processador Pipeline
+
+Modificar a versão do MIPS pipeline para implementar o RISCV pipeline. Executar seu exemplo e gravar um vídeo. Mostrar em destaque um trecho de três instruções diferentes e seu monitoramento com os Waveforms. 
 

@@ -10,9 +10,9 @@ A avaliação só pode ser feita uma única vez. Assista os vídeos da Semana 1 
 
 ## 1.1 Múltiplas Unidades Funcionais
 
-[Fazer os exercicios e colocar em seu github, Depois faça a avaliação](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing)
+[Fazer os exercicios](https://docs.google.com/document/d/1Ib10ajsfOkAV2flKp2jx3ZnB1YXGRCnuYECg1935kz0/edit?usp=sharing) e colocar em seu github.
 
-[Depois de fazer a atividade acima, clique aqui para fazer a Avaliação Individual - Só uma submissão pode ser feita](https://docs.google.com/forms/d/e/1FAIpQLSdKfbnEkU-fpPtYMtr0Z6kZp8bwLf6B1FGP2iGdhPP5hAm6OA/viewform?usp=sf_link)
+[Clique aqui para fazer a Avaliação Individual - Só uma submissão pode ser feita](https://docs.google.com/forms/d/e/1FAIpQLSdKfbnEkU-fpPtYMtr0Z6kZp8bwLf6B1FGP2iGdhPP5hAm6OA/viewform?usp=sf_link)
 
 ## 1.2 Escalonamento Estático
 

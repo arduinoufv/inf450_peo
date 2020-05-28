@@ -1,8 +1,5 @@
 # 1. Semana: Risc, Escalonamento Instruções
 
-## Instruções Gerais
-
-Todos os links para o material estão disponibilizados a seguir e incluem: aulas síncronas (slides e vídeo da aula),  Sequência de aulas assíncronas e atividades, documentos offline (caso você preferir editar localmente) e no Google Drive. Existem também links para material suplementar, caso vocês tenham interesse. Os documentos offline estão na [pasta doc]()
 
 
 ## 1.1 Tecnologias, custos e tendências, abordagem quantitativa

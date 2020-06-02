@@ -38,15 +38,25 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 [Faça o exercício 1.1 e depois a avaliação](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex1.md)
 
 ### Material suplementar
-[ferramenta](http://www.ecs.umass.edu/ece/koren/architecture/windlx/main.html)
+[ferramenta online para criar exemplos com múltiplas unidades](http://www.ecs.umass.edu/ece/koren/architecture/windlx/main.html) - Observação: Não executa sobreposição da execução de uma unidade.
 
 [Video 10 minutos em Ingles de Multiplas Unidades TU Berlime](https://www.youtube.com/watch?v=QosdsRx1cb4)
 
 ## 1.4 Escalonamento Estatico, Unroll e  Software Pipelining 
 
-[slides](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) 
+### Preparação para as tarefas 
+* [slides](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) 
+* [Escalonamento Estático - Primeiro Exemplo - Video 3 minutos](https://youtu.be/NoDAA7KANiY)
+* [Desvio com Atraso ou Branch Delay - Video de 2 minutos](https://youtu.be/4W1FAraTlXI)
+* [Loop Unroll - Video de 5 minutos](https://youtu.be/-TcEUUia84A)
+* [Três técnicas de desvio - Vídeo de 3 minutos](https://youtu.be/BNx9mqevHRs)
+* [Mesmo exemplo com outro escalonamento - video de 3 minutos](https://youtu.be/vNJJOH8b8DA)
 
-[ferramenta unroll](http://www.ecs.umass.edu/ece/koACren/architecture/LoopUnroll/MainPage.html)
+### Tarefas
+[Faça o exercício 1.2 e depois a avaliação](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex1.md)
+
+### Material suplementar
+[ferramenta unroll online com exemplos](http://www.ecs.umass.edu/ece/koACren/architecture/LoopUnroll/MainPage.html)
 
 [Material anterior - Video Março 2020](https://youtu.be/gHNWyNlDLy0)
 

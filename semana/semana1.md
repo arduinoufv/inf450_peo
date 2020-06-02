@@ -42,16 +42,20 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 
 [Video 10 minutos em Ingles de Multiplas Unidades TU Berlime](https://www.youtube.com/watch?v=QosdsRx1cb4)
 
-## 1.4 Escalonamento Estatico, Unroll e  Software Pipelining 
+## 1.4 Escalonamento Estatico, Unroll e  Software Pipelining  - Aula Assíncrona
+
+[Resumo dos conceitos - vídeo...]()
 
 ### Preparação para as tarefas 
-* [slides](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) 
+* [Folha sem preencher dos exemplos a seguir](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
 * [Escalonamento Estático - Primeiro Exemplo - Video 3 minutos](https://youtu.be/NoDAA7KANiY)
 * [Desvio com Atraso ou Branch Delay - Video de 2 minutos](https://youtu.be/4W1FAraTlXI)
 * [Loop Unroll - Video de 5 minutos](https://youtu.be/-TcEUUia84A)
 * [Três técnicas de desvio - Vídeo de 3 minutos](https://youtu.be/BNx9mqevHRs)
 * [Mesmo exemplo com outro escalonamento - video de 3 minutos](https://youtu.be/vNJJOH8b8DA)
-
+* [Introdução Software Pipelining]()
+* [Exemplo com Software Pipelining]()
+* [Folha com exemplos preenchidos](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) 
 ### Tarefas
 [Faça o exercício 1.2 e depois a avaliação](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex1.md)
 

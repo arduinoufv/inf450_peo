@@ -55,6 +55,7 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 * [Mesmo exemplo com outro escalonamento - video de 3 minutos](https://youtu.be/vNJJOH8b8DA)
 * [Introdução Software Pipelining]()
 * [Exemplo com Software Pipelining]()
+* [Definição de Software Pipelining - Wiki](https://en.wikipedia.org/wiki/Software_pipelining)
 * [Folha com exemplos preenchidos](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) 
 ### Tarefas
 [Faça o exercício 1.2 e depois a avaliação](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex1.md)

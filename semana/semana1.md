@@ -7,6 +7,10 @@
 
 [Data:  - Video da Aula ....]()
 
+### Material Suplementar
+
+[ There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://science.sciencemag.org/content/368/6495/eaam9744) - [Github](https://github.com/neboat/Moore)  - [Planilha Desempenho dos Processadores](https://github.com/neboat/Moore/blob/master/hardware-performance-scaling.xlsx)
+
 [Demanda de Computação para IA](https://openai.com/blog/ai-and-compute/)
 
 [Andre Barroso, autor do Prefácio do Livro Quantitative Approach, Vice-Presidente da Google,recebe prêmio](https://awards.acm.org/eckert-mauchly)

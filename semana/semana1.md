@@ -7,7 +7,9 @@
 
 [Data:  - Video da Aula ....]()
 
-[Brasileiro, Andre Barroso, autor do Prefácio do Livro Quantitative Approach, Vice-Presidente da Google,recebe prêmio](https://awards.acm.org/eckert-mauchly)
+[Demanda de Computação para IA](https://openai.com/blog/ai-and-compute/)
+
+[Andre Barroso, autor do Prefácio do Livro Quantitative Approach, Vice-Presidente da Google,recebe prêmio](https://awards.acm.org/eckert-mauchly)
 
 [Material anterior - Video Março 2020](https://youtu.be/AtJY9AX00fo)
 

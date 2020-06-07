@@ -3,9 +3,20 @@
 
 [Slides](https://docs.google.com/document/d/1QIxQdiGCzmORZuE_0nn4S43aTABa4wAt5bB63UcYtPI/edit?usp=sharing)
 
+[ 17/6 - Aula Síncrona ]() - Superscalar, VLIW, Desvios Estáticos
+
+## Assíncrona
+
+* [Folha com exemplos das aulas]()
+* [Execução em um processador Superscalar - Video ]()
+* [Execução em um processador VLIW - Video]()
+* [Exercicio e Questionário]()
+
 # 2.2 Desvio Estático e Desvio com Atraso
 
-[Conceitos e Exemplos](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
+* [Conceitos e Exemplos](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
+* [Exercicio e Questionário]()
+
 
 # 2.3 Desvio dinâmico
 

@@ -21,6 +21,8 @@
 
 [Material para Aula 1.2 Síncrona](https://docs.google.com/presentation/d/1zlJNTTrgUyfpty75FxJkH2L89NVwTZnoORfMrpaI88o/edit?usp=sharing) 
 
+
+
 [Data:  10/6 - Video da Aula ]() - Processadores MIPS e RISCV, Introdução para as aulas Assíncronas de Múltiplas Unidades Funcionais, Unroll e Escalonamento, Escalonamento Dinâmico.
 
 [Data:  15/6 - Video da Aula ]()  Revisão das Aulas Assíncronos 1.3, 1.4 e 1.5, Chat para Dúvidas
@@ -37,6 +39,7 @@
 
 ### Preparação para Tarefas
 Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da [Folha de atividades para multiplas unidades](https://docs.google.com/document/d/1_H4PROif7zX79emB2uQxAAEo2Fmr2UtkNiI1GcoOOvM/edit?usp=sharing). Tarefas: Assistir os vídeos, fazer o exercício abaixo, postar a solução do exercício no seu Github e fazer o questionário de avaliação. Data de Entrega das Tarefas: ...
+
 
 * [Primeiro Exemplo de Execução - Vídeo 5 minutos](https://youtu.be/F2JXO-GINOg)
 * [Segundo e Terceiro Exemplos - Video 2 minutos](https://youtu.be/dHiv8k4JrPU)
@@ -64,7 +67,7 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 * [Três técnicas de desvio - Vídeo de 3 minutos](https://youtu.be/BNx9mqevHRs)
 * [Mesmo exemplo com outro escalonamento - video de 3 minutos](https://youtu.be/vNJJOH8b8DA)
 * [Introdução Software Pipelining]()
-* [Exemplo com Software Pipelining]()
+* [Exemplo com Software Pipelining]() - ERRATA - CPI não soma +1 do ciclo de inicio. CPI = Final-inicio/Numero Instrucoes
 * [Definição de Software Pipelining - Wiki](https://en.wikipedia.org/wiki/Software_pipelining)
 * [Folha com exemplos preenchidos](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) 
 ### Tarefas
@@ -76,8 +79,11 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 [Material anterior - Video Março 2020](https://youtu.be/gHNWyNlDLy0)
 
 ## 1.5 Escalonamento dinâmico 
-[slides](https://docs.google.com/document/d/1MgN7hzgopprK_OQvHwNxQX4h9oo6C0T2l3qC-AUrXXk/edit?usp=sharing)
+[Folha de Atividades](https://docs.google.com/document/d/1MgN7hzgopprK_OQvHwNxQX4h9oo6C0T2l3qC-AUrXXk/edit?usp=sharing)
 
+ * [Primeiro Exemplo com Tomasulo]()
+ * [Segundo Exemplo com Tomasulo]()
+ 
 [wiki](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
 
 ## Material suplementar

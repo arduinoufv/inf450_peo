@@ -5,7 +5,7 @@
 ## 1.1 Tecnologias, custos e tendências, abordagem quantitativa
 [slides para Aula 1.1 síncrona](https://docs.google.com/presentation/d/1_LykWtdGVN7RCOvt1C8jXhd5BZuPTYUz1-FzViksB7w/edit?usp=sharing)
 
-[Data:  - Video da Aula ....]()
+[Data:  8/6 - Video da Aula ....]()
 
 ### Material Suplementar
 
@@ -19,11 +19,13 @@
 
 ## 1.2 Tipos de conjunto de instruções e RISCV
 
-[Material para Aula 1.2 Síncrona](https://docs.google.com/presentation/d/1zlJNTTrgUyfpty75FxJkH2L89NVwTZnoORfMrpaI88o/edit?usp=sharing)
-Livro: RiscV Patterson/Hennessy
+[Material para Aula 1.2 Síncrona](https://docs.google.com/presentation/d/1zlJNTTrgUyfpty75FxJkH2L89NVwTZnoORfMrpaI88o/edit?usp=sharing) 
 
-[Data:  - Video da Aula ....]()
+[Data:  10/6 - Video da Aula ]() - Processadores MIPS e RISCV, Introdução para as aulas Assíncronas de Múltiplas Unidades Funcionais, Unroll e Escalonamento, Escalonamento Dinâmico.
 
+[Data:  15/6 - Video da Aula ]()  Revisão das Aulas Assíncronos 1.3, 1.4 e 1.5, Chat para Dúvidas
+
+### Material suplementar 
 
 [Material anterior - Video Março 2020](https://youtu.be/AksZXs9se8I)
 

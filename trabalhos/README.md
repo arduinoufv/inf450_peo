@@ -15,7 +15,7 @@ vídeo.
 * Gravar vídeo de 1 minuto mostrando inicio e final da simulação
 * Codificar em binário para executar no processador [single cycle RISCV DigitalJS](...)
 * Gravar vídeo de 1 minuto mostrando inicio e final da simulação
-* Gerar um relatório em PDF
+* Gerar um relatório em PDF: Codigo C, Assembler gerado no Compiler Explore, codigo para WebRISCV e código para RISCV DigitalJS - Links para os vídeos, estatísticas de execução (número de instruções, ciclos, % desvios, % load/Store)
 
 ## Técnicas de otimização de Loop
 * Fazer um unroll com fator 3 e escalonamento estático. Executar 12 (4x3) iterações no [simulador WebRISCV](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php) 

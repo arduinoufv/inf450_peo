@@ -1,6 +1,8 @@
 # inf450 Arquitetura de Computadores Periodo Outono (PEO) 2020
 
 O material será organizado por semana, trabalhos e exercícios.
+
+# Local e Horário
 A disciplina tem uma sala no  Google Classroom com código dyyhlgo.
 
 [As aulas serão no Meeting - clique aqui](https://meet.google.com/lookup/eulgbopisw?authuser=1&hs=179)

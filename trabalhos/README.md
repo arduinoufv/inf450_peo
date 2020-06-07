@@ -7,7 +7,7 @@ com o professor. O material produzido ficará disponível: apresentações assí
 Implementar no DigitalJS o processador RISCV com pipeline. Criar códigos de exemplos. Mostrar a execução passo a passo em um
 vídeo. 
 
-## Exemplo
+## Parte 1 - Elaborar um Exemplo
 * Cada grupo irá executar um exemplo. 
 * Codificar em C, mostrar o código gerado com e sem -O3 no [Compiler Explore](https://godbolt.org/)
 * Codificar em RISCV

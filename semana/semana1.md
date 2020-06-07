@@ -35,7 +35,8 @@
 
 ### Introdução
 
-[Assista primeiro o vídeo de introdução dos novos conceitos ...]()
+[Assista primeiro o vídeo de introdução dos novos conceitos Video](https://youtu.be/NGlhWtaQUvE)
+
 
 ### Preparação para Tarefas
 Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da [Folha de atividades para multiplas unidades](https://docs.google.com/document/d/1_H4PROif7zX79emB2uQxAAEo2Fmr2UtkNiI1GcoOOvM/edit?usp=sharing). Tarefas: Assistir os vídeos, fazer o exercício abaixo, postar a solução do exercício no seu Github e fazer o questionário de avaliação. Data de Entrega das Tarefas: ...
@@ -57,7 +58,7 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 
 ## 1.4 Escalonamento Estatico, Unroll e  Software Pipelining  - Aula Assíncrona
 
-[Resumo dos conceitos - vídeo...]()
+[Introdução a Unidade Video](https://youtu.be/FhOn6kp0QYE)
 
 ### Preparação para as tarefas 
 * [Folha sem preencher dos exemplos a seguir](https://docs.google.com/document/d/1J-BHI6DYczwqqI01_H-GWNVTFY-30ll7dSgDrcagcH0/edit?usp=sharing)
@@ -66,8 +67,8 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 * [Loop Unroll - Video de 5 minutos](https://youtu.be/-TcEUUia84A)
 * [Três técnicas de desvio - Vídeo de 3 minutos](https://youtu.be/BNx9mqevHRs)
 * [Mesmo exemplo com outro escalonamento - video de 3 minutos](https://youtu.be/vNJJOH8b8DA)
-* [Introdução Software Pipelining]()
-* [Exemplo com Software Pipelining]() - ERRATA - CPI não soma +1 do ciclo de inicio. CPI = Final-inicio/Numero Instrucoes
+* [Introdução Software Pipelining](https://youtu.be/g65JZ26sSHI)
+* [Exemplo  com Software Pipelining](https://youtu.be/9ubcCHKmc4w)
 * [Definição de Software Pipelining - Wiki](https://en.wikipedia.org/wiki/Software_pipelining)
 * [Folha com exemplos preenchidos](https://docs.google.com/document/d/11Kep0l6_UFheh5b5t3N8kaGj2hApEXlM3LkGB5kCNxM/edit?usp=sharing) 
 ### Tarefas
@@ -81,8 +82,8 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 ## 1.5 Escalonamento dinâmico 
 [Folha de Atividades](https://docs.google.com/document/d/1MgN7hzgopprK_OQvHwNxQX4h9oo6C0T2l3qC-AUrXXk/edit?usp=sharing)
 
- * [Primeiro Exemplo com Tomasulo]()
- * [Segundo Exemplo com Tomasulo]()
+ * [Primeiro Exemplo com Tomasulo](https://youtu.be/9GbUo4_4k6Y)
+ * [Segundo Exemplo com Tomasulo](https://youtu.be/KHGXvosM7RY)
  
 [wiki](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
 

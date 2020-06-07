@@ -40,7 +40,7 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 
 * [Primeiro Exemplo de Execução - Vídeo 5 minutos](https://youtu.be/F2JXO-GINOg)
 * [Segundo e Terceiro Exemplos - Video 2 minutos](https://youtu.be/dHiv8k4JrPU)
-* [Primeiro Exemplo com Loop - Video 2 minutos](https://youtu.be/8P2jy4S7qXA)
+* [Primeiro Exemplo com Loop - Video 2 minutos](https://youtu.be/8P2jy4S7qXA) - ERRATA - CPI não soma +1 do ciclo de inicio. CPI = Final-inicio/Numero Instrucoes
 * [Segundo exemplo com loop - Video 2 minutos](https://youtu.be/2It4lGZth6Q)
 * [Solução da Folha de Atividades](https://docs.google.com/document/d/1WZe5-GYcZtaTBg4WEL1C5XDJmOkNB1uS4YfJthP5soY/edit?usp=sharing)
 

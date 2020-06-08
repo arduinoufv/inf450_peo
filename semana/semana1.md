@@ -5,7 +5,7 @@
 ## 1.1 Tecnologias, custos e tendências, abordagem quantitativa
 [slides para Aula 1.1 síncrona](https://docs.google.com/presentation/d/1_LykWtdGVN7RCOvt1C8jXhd5BZuPTYUz1-FzViksB7w/edit?usp=sharing)
 
-[Data:  8/6 - Video da Aula ....]()
+[Data:  8/6 - Video da Aula](https://drive.google.com/file/d/1Isv5wZIeNv05wWamkATrtnHmqli2NJBl/view?usp=sharing)
 
 ### Material Suplementar
 

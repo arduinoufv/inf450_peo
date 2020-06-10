@@ -23,9 +23,9 @@
 
 
 
-[Data:  10/6 - Video da Aula ]() - Processadores MIPS e RISCV, Introdução para as aulas Assíncronas de Múltiplas Unidades Funcionais, Unroll e Escalonamento, Escalonamento Dinâmico.
+[Data:  10/6 - Video da Aula ](https://drive.google.com/file/d/1cMzrNN_NSITii482HqIxJZTsHC7W-7Tb/view) - Processadores MIPS e RISCV, Introdução para as aulas Assíncronas de Múltiplas Unidades Funcionais, Unroll e Escalonamento, Escalonamento Dinâmico.
 
-[Data:  15/6 - Video da Aula ]()  Revisão das Aulas Assíncronos 1.3, 1.4 e 1.5, Chat para Dúvidas
+[Data:  15/6 - Video da Aula ]()  Revisão das Aulas Assíncronos 1.3, 1.4 e 1.5, Superscalar e VLIW. Chat para Dúvidas
 
 ### Material suplementar 
 [Código Assembler usado pela Apolo11 para ir a Lua](https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions#email-newsletter)

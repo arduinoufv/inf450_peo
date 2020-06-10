@@ -30,6 +30,8 @@
 ### Material suplementar 
 [Código Assembler usado pela Apolo11 para ir a Lua](https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions#email-newsletter)
 
+[Palestra de Compiladores com Prof. Fernando Pereira/DCC/UFMG](https://www.youtube.com/watch?v=Czvo_mf-sqg)
+
 [Material anterior - Video Março 2020](https://youtu.be/AksZXs9se8I)
 
 ## 1.3 Múltiplas Unidades Funcionais - Aula Assíncrona

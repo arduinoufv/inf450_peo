@@ -4,5 +4,10 @@
 
 [Quicksort, etc...](https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html)
 
-[GPU x CPU in Mandelbrot](https://tayfunkayhan.wordpress.com/2020/06/03/mandelbrot-in-floating-point-vs-fixed-point/) - [github](https://github.com/NotCamelCase/MandelbrotFPvsFP)
+[GPU x CPU in Mandelbrot](https://tayfunkayhan.wordpress.com/2020/06/03/mandelbrot-in-floating-point-vs-fixed-point/) - [github](https://github.com/NotCamelCase/MandelbrotFPvsFP)s
 
+
+# GPUs
+
+[A-100 e FP32](https://lambdalabs.com/blog/nvidia-a100-gpu-deep-learning-benchmarks-and-architectural-overview/)
+https://lambdalabs.com/blog/nvidia-a100-gpu-deep-learning-benchmarks-and-architectural-overview/

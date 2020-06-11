@@ -57,6 +57,8 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 ### Material suplementar
 [ferramenta online para criar exemplos com múltiplas unidades](http://www.ecs.umass.edu/ece/koren/architecture/windlx/main.html) - Observação: Não executa sobreposição da execução de uma unidade.
 
+[Latência das operações nos processadores X86 Intel/AMD](https://www.agner.org/optimize/instruction_tables.pdf)
+
 [Video 10 minutos em Ingles de Multiplas Unidades TU Berlime](https://www.youtube.com/watch?v=QosdsRx1cb4)
 
 ## 1.4 Escalonamento Estatico, Unroll e  Software Pipelining  - Aula Assíncrona

@@ -1,13 +1,11 @@
 
 # 2.1 SuperEscalar, VLIW
 
-[Slides](https://docs.google.com/document/d/1QIxQdiGCzmORZuE_0nn4S43aTABa4wAt5bB63UcYtPI/edit?usp=sharing)
-
-[ 17/6 - Aula Síncrona ]() - Superscalar, VLIW, Desvios Estáticos
+[ 17/6 - Aula Síncrona ]() - Desvios Estáticos e Dinamicos
 
 ## Assíncrona
 
-* [Folha com exemplos das aulas]()
+* [Folha com exemplos das aulas](https://docs.google.com/document/d/1QIxQdiGCzmORZuE_0nn4S43aTABa4wAt5bB63UcYtPI/edit?usp=sharing)
 * [Execução em um processador Superscalar - Video ]()
 * [Execução em um processador VLIW - Video]()
 * [Exercicio e Questionário]()

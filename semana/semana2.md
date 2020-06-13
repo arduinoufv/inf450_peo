@@ -6,9 +6,12 @@
 ## Assíncrona
 
 * [Folha com exemplos das aulas](https://docs.google.com/document/d/1QIxQdiGCzmORZuE_0nn4S43aTABa4wAt5bB63UcYtPI/edit?usp=sharing)
-* [Execução em um processador Superscalar - Video ]()
-* [Execução em um processador VLIW - Video]()
-* [Exercicio e Questionário]()
+* [Execução em um processador Superscalar Escalonamento Estático- Video ](https://youtu.be/gLIwX60OqLQ)
+* [Execução em um processador Superscalar Escalonamento Dinâmico- Video ](https://youtu.be/A7s9N1fZSJg)
+* [Execução em um processador VLIW - Video](https://youtu.be/TYpjXyR1sv8)
+* [Execução em um processador VLIW Unroll - Video](https://youtu.be/Opy2yl3zT8I)
+* [VLIW e Superscalar - Video](https://youtu.be/1MnVJsvDLoo)
+* [Exercicio e Questionário](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex2.md#21-superscalar-e-vliw)
 
 # 2.2 Desvio Estático e Desvio com Atraso
 

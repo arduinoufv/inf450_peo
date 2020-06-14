@@ -16,6 +16,7 @@
 # 2.2 Desvio Estático e Desvio com Atraso
 
 * [Conceitos e Exemplos](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
+* [Slides da Aula Sincrona do 17/6](https://docs.google.com/presentation/d/1Fd3ZL187-p5zRFGn-lhfRlMppTzJG_d7Tvhq5uCU2mM/edit?usp=sharing)
 * [Exercicio e Questionário]()
 
 
@@ -26,7 +27,7 @@
 
 # 2.4 Implementaçao de Desvio Dinamico 
 
-[Slides da Implementacao](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing)
+[Slides para Aula Sincrono 18/6](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing)
 
 
 [Implementacao no pipeline basico do MIPS - Artigo](https://drive.google.com/open?id=1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH)

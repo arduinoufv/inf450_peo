@@ -25,7 +25,7 @@
 
 [Data:  10/6 - Video da Aula ](https://drive.google.com/file/d/1cMzrNN_NSITii482HqIxJZTsHC7W-7Tb/view) - Processadores MIPS e RISCV, Introdução para as aulas Assíncronas de Múltiplas Unidades Funcionais, Unroll e Escalonamento, Escalonamento Dinâmico.
 
-[Data:  15/6 - Video da Aula ]()  Revisão das Aulas Assíncronos 1.3, 1.4 e 1.5, Superscalar e VLIW. Chat para Dúvidas
+[Data:  15/6 - Video da Aula ](https://drive.google.com/file/d/1YggIH9KBNiGO4XLRS2pZfIrL36Yaubvk/view?usp=sharing)  Revisão das Aulas Assíncronos 1.3, 1.4 e 1.5, Superscalar e VLIW. Chat para Dúvidas
 
 * [slides](https://docs.google.com/presentation/d/14wxD1nXVCHVqidB4S4sbar_OGkiAhkooeNXDyEL-RZ8/edit?usp=sharing)
 

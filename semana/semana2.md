@@ -17,7 +17,7 @@
 
 * [Conceitos e Exemplos](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
 * [Slides da Aula Sincrona do 17/6 Preditores Estáticos e Dinâmicos](https://docs.google.com/presentation/d/1Fd3ZL187-p5zRFGn-lhfRlMppTzJG_d7Tvhq5uCU2mM/edit?usp=sharing)
-## Três vídeos com o resumo da aulade predição de desvios
+## Três vídeos com o resumo da aulade predição de desvios - Assíncrona
 * [Introdução aos preditores de desvios](https://youtu.be/9m25Tkzw8Z4)
 * [Onde os desvios são avaliados Fetch ou Decoder](https://youtu.be/ts7NF4pi3ag)
 * [Preditores Dinâmicos e esboço da implementação](https://youtu.be/lN8DVw6DwJM)
@@ -31,7 +31,7 @@
 * [Preditor Global com correlação de 2 bits](https://youtu.be/qFKws6WyhpM)
 * [Preditor Global com Xor ](https://youtu.be/xqXAQBMhlK4)
 * [Preditor Local](https://youtu.be/nVYT6gfcjFw)
-* [Exercicio e Questionário]()
+* [Exercicio e Questionário](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex2.md#22-predicao-de-desvios-estatica-e--dinamica)
 
 
 ## Material Complementar 

@@ -4,10 +4,12 @@
 
 * [Questionario 2.1](https://docs.google.com/forms/d/e/1FAIpQLSeR9O5u8uHhtXS9d2n9M48G9JZJcnbFKizs-6-uZKFHKAUazg/viewform)
 
-# 2.2 Predicao de Desvios Estatica
+# 2.2 Predicao de Desvios Estatica e  Dinamica
 
-# 2.3 Predicao de Desvios Dinamica
+* [Exercicio 2.2](https://docs.google.com/document/d/1Y3NABn81nCwmSUqKyWonEDs9EzmqCE5eXVlaNWiTetk/edit?usp=sharing)
 
-# 2.4 Implementacao da Predicao de Desvio no MIPS Pipeline
+* [Questionario](https://docs.google.com/forms/d/e/1FAIpQLSfarN-lDhumpUMEH1PM-gGcw_IlmrdI9GY8fltNqmn_3zmaYQ/viewform)
 
-# 2.5 Avaliaçao de Desempenho com ferramentas de Profile
+# 2.3 Implementacao da Predicao de Desvio no MIPS Pipeline
+
+# 2.4 Avaliaçao de Desempenho com ferramentas de Profile

@@ -17,7 +17,14 @@
 
 * [Conceitos e Exemplos](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
 * [Slides da Aula Sincrona do 17/6 Preditores Estáticos e Dinâmicos](https://docs.google.com/presentation/d/1Fd3ZL187-p5zRFGn-lhfRlMppTzJG_d7Tvhq5uCU2mM/edit?usp=sharing)
-* [Solução dos Exemplos - Assíncrona ]()
+* [Preditor Estático e Calculo do CPI ](https://youtu.be/dOaytJyKahk)
+* [4 way e Branch Delay CPI ](https://youtu.be/fbjSfVVx2xg)
+* [Preditor Dinamico - Ideia Baśica ](https://youtu.be/jiIo54ZxKis)
+* [Preditor Dinamico - Custo das Tabelas ](https://youtu.be/pV32L9JNxyo)
+* [Preditor Dinamico - Mapeamento na Tabela](https://youtu.be/1Zdw5vJZNPM)
+* [Preditor Global com correlação de 2 bits](https://youtu.be/qFKws6WyhpM)
+* [Preditor Global com Xor ](https://youtu.be/xqXAQBMhlK4)
+* [Preditor Local](https://youtu.be/nVYT6gfcjFw)
 * [Predição estática - Assíncrona ]()
 * [Exercicio e Questionário]()
 

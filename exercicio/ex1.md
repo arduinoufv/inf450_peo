@@ -26,5 +26,5 @@ Fazer o exercício no Classroom. [Caso tenha problemas com o Classroom, fazer os
 
 Fazer o exercício no Classroom. [Caso tenha problemas com o Classroom, fazer os exercicios com este link para depois postar no Git.](https://docs.google.com/document/d/1JEj7AfNjVGiLLP3w6dl_SSQEhomq2xYt8P81Bw6uPvI/edit?usp=sharing)
 
-Final de matricula: 4,5,6,7,8 - Usar desvio com atraso 0,1,2,3,9- Desvio especulativo
+Usar Desvio Especulativo.
 

@@ -1,7 +1,7 @@
 
 # 2.1 SuperEscalar, VLIW
 
-[ 17/6 - Aula Síncrona ]() - Desvios Estáticos e Dinamicos
+[ 17/6 - Aula Síncrona ](https://drive.google.com/file/d/1e8M5eJnbPcm8iUUjEHOHXEH4x9b9lRbU/view) - Desvios Estáticos e Dinamicos
 
 ## Assíncrona
 

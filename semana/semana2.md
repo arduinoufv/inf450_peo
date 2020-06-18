@@ -41,13 +41,17 @@
 
 # 2.4 Implementaçao de Desvio Dinamico 
 
+* [Assíncrona - Rápida Introdução a Implementação de Desvios](https://youtu.be/zXUb7rAiEk4)
+
 * [Aula Síncrona 18/6 do Desvio Dinamico ](https://drive.google.com/file/d/14q-wYZplV_WGdAs4U3Gr5hcWEcS2fhtk/view)
 
 * [Slides para Aula Sincrono 18/6](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing)
 
 * [Implementacao no pipeline basico do MIPS - Artigo](https://drive.google.com/open?id=1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH)
 
-* [Exemplo de exercício com preditor no MIPS](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
+* [Folha com um Exemplo de exercício com preditor no MIPS](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
+
+* [Outro Exemplo de execução com desvios no MIPS com Preditor](https://youtu.be/8ce3D7wgWHAdesvio)
 
 * [exercicio com a implementacao](https://docs.google.com/document/d/1B_Tgm2jjORC9FWF9B_-eNv3HVANv6HZmckI4YCqtS3I/edit?usp=sharing)
 

@@ -95,7 +95,9 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
  * [Segundo Exemplo com Tomasulo](https://youtu.be/KHGXvosM7RY)
  
 * [wiki](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
-* [Video aula de 2019 a parte 30 minutos - Escalonamento Dinamico ](https://www.youtube.com/watch?v=DumKTCbRS5o&feature=youtu.be)
+* [Video aula de 2019 a partir 30 minutos - Escalonamento Dinamico ](https://www.youtube.com/watch?v=DumKTCbRS5o&feature=youtu.be)
+
+* [Exercicios e Questionário](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex1.md#13-escalonamento-din%C3%A2mico---prazo-18620)
 
 ## Material suplementar
 

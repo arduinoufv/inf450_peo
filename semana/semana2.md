@@ -35,7 +35,7 @@
 
 
 ## Material Complementar 
-
+* [ Aula de 2019 Sobre predição de desvios - Video 1H 27 Minutos](https://www.youtube.com/watch?v=Acr15aYt2jg&feature=youtu.be)
 * [Slides do Prof. Gabriel UFRJ](https://drive.google.com/open?id=1g35zSLj4GJ6iYesztXpK8-YhcS0lhF75)
 
 
@@ -49,6 +49,9 @@
 
 * [exercicio com a implementacao](https://docs.google.com/document/d/1B_Tgm2jjORC9FWF9B_-eNv3HVANv6HZmckI4YCqtS3I/edit?usp=sharing)
 
+## Material complementar 
+
+* [Aula de 2019 com exemplo da implementação do Preditor de Desvios de 1 bits - Video 1H30](https://www.youtube.com/watch?v=YcCPZPiuEaw&feature=youtu.be)
 * [Meltdown e Spectre](https://drive.google.com/open?id=12JJtU2r4-oZVI7pVYsxbZrx6qh77Ru7d)
 
 # 2.5 Desempenho com avaliação quantitativa e ferramentas de Profile

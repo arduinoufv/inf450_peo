@@ -41,6 +41,8 @@
 
 # 2.4 Implementaçao de Desvio Dinamico 
 
+* [Aula Síncrona 18/6 do Desvio Dinamico ](https://drive.google.com/file/d/14q-wYZplV_WGdAs4U3Gr5hcWEcS2fhtk/view)
+
 * [Slides para Aula Sincrono 18/6](https://docs.google.com/presentation/d/1NoKyJ3UC34Rj6trYvjSHXAwF48wRzG9937nkRR48AnM/edit?usp=sharing)
 
 * [Implementacao no pipeline basico do MIPS - Artigo](https://drive.google.com/open?id=1OwYKriZ7ZO-vyjqkrxkEaGVxqul_YnwH)

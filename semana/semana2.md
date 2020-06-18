@@ -1,7 +1,6 @@
 
 # 2.1 SuperEscalar, VLIW
 
-[ 17/6 - Aula Síncrona ](https://drive.google.com/file/d/1e8M5eJnbPcm8iUUjEHOHXEH4x9b9lRbU/view) - Desvios Estáticos e Dinamicos
 
 ## Assíncrona
 
@@ -14,7 +13,8 @@
 * [Exercicio e Questionário](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex2.md#21-superscalar-e-vliw)
 
 # 2.2 Desvio Estático e Dinâmico
-
+* [ 17/6 - Aula Síncrona - Desvios Estáticos e Dinamicos
+](https://drive.google.com/file/d/1e8M5eJnbPcm8iUUjEHOHXEH4x9b9lRbU/view) 
 * [Conceitos e Exemplos](https://docs.google.com/document/d/1SiCiYdLVh4lkjbbA88u2LrZiNHElHHYrsM3Fnm38LtI/edit?usp=sharing)
 * [Slides da Aula Sincrona do 17/6 Preditores Estáticos e Dinâmicos](https://docs.google.com/presentation/d/1Fd3ZL187-p5zRFGn-lhfRlMppTzJG_d7Tvhq5uCU2mM/edit?usp=sharing)
 ## Três vídeos com o resumo da aulade predição de desvios - Assíncrona

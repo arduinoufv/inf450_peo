@@ -83,9 +83,10 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 [Faça o exercício 1.2 e depois a avaliação](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex1.md#12-escalonamento-est%C3%A1tico-loop-unrolling-e-software-pipelining)
 
 ### Material suplementar
-[ferramenta unroll online com exemplos](http://www.ecs.umass.edu/ece/koACren/architecture/LoopUnroll/MainPage.html)
+* [ Video de Software Pipeline - Aula de 2019 (a partir 11 minutos) - Video 1H30](https://www.youtube.com/watch?v=iqBFW2Y59_I&feature=youtu.be)
+* [ferramenta unroll online com exemplos](http://www.ecs.umass.edu/ece/koACren/architecture/LoopUnroll/MainPage.html)
 
-[Material anterior - Video Março 2020](https://youtu.be/gHNWyNlDLy0)
+* [Material anterior - Video Março 2020](https://youtu.be/gHNWyNlDLy0)
 
 ## 1.5 Escalonamento dinâmico 
 [Folha de Atividades](https://docs.google.com/document/d/1MgN7hzgopprK_OQvHwNxQX4h9oo6C0T2l3qC-AUrXXk/edit?usp=sharing)
@@ -93,7 +94,8 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
  * [Primeiro Exemplo com Tomasulo](https://youtu.be/9GbUo4_4k6Y)
  * [Segundo Exemplo com Tomasulo](https://youtu.be/KHGXvosM7RY)
  
-[wiki](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
+* [wiki](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
+* [Video aula de 2019 a parte 30 minutos - Escalonamento Dinamico ](https://www.youtube.com/watch?v=DumKTCbRS5o&feature=youtu.be_
 
 ## Material suplementar
 

@@ -95,7 +95,7 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
  * [Segundo Exemplo com Tomasulo](https://youtu.be/KHGXvosM7RY)
  
 * [wiki](https://en.wikipedia.org/wiki/Tomasulo_algorithm)
-* [Video aula de 2019 a parte 30 minutos - Escalonamento Dinamico ](https://www.youtube.com/watch?v=DumKTCbRS5o&feature=youtu.be_
+* [Video aula de 2019 a parte 30 minutos - Escalonamento Dinamico ](https://www.youtube.com/watch?v=DumKTCbRS5o&feature=youtu.be)
 
 ## Material suplementar
 

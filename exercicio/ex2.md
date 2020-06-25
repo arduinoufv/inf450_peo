@@ -17,7 +17,7 @@ Fazer no Google Classroom, com o link interno. Caso nao tenha acesso, utilize os
 
 Fazer no Google Classroom, com o link interno. Caso nao tenha acesso, utilize os links abaixo:
 
-* [Exercicio 2.3](https://docs.google.com/document/d/1B_Tgm2jjORC9FWF9B_-eNv3HVANv6HZmckI4YCqtS3I/edit?usp=sharing)
+* [Exercicio 2.3](https://docs.google.com/document/d/128oRc9jFsmcIs31eA2KmzvehaM_9v2ay8JH2WwBhZvk/edit?usp=sharing)
 * [Questionario](https://docs.google.com/forms/d/e/1FAIpQLSeXVgPr01fZYWzSD7OVRaDfsdyyYmJYTUWf-cregqBy6KjEuw/viewform?authuser=0)
 
 # 2.4 Avaliaçao de Desempenho com ferramentas de Profile

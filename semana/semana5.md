@@ -6,3 +6,7 @@
 # 5.3 Arquitetura de Memórias das GPUs
 
 # 5.4 Sistólicos
+
+# Exemplos com GPU
+
+[exemplos de codigos](https://github.com/dendibakh/GPU_programming)

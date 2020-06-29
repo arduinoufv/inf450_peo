@@ -27,4 +27,13 @@
 
 # 3.4 Coerência em Cache
 
+* [Protocolos com multiplas Cache Introduçao](https://drive.google.com/file/d/1_8aKDdUcYvNU2lnKjRy8m8Z50ahYNq8m/view?usp=sharing)
+* [Exemplos de Protocolos, Slides do Prof. Rodolfo Azevedo - Unicamp](https://drive.google.com/file/d/1FTbamQWtO2SWjN2oH1YUfg1m_XnuIhL-/view?usp=sharing)
+
 # 3.5 Arquiteturas Comerciais e Medidas
+
+* Trabalho 3 em Grupo
+* [Pesquise sobre seu processador](http://www.cpu-world.com/CPUs/Core_i5/Intel-Core%20i5%20i5-5200DU.html)
+* Usar o Valgrind e Perf para medidas
+* [Outro simulador para exemplos mais controlados](https://github.com/arduinoufv/inf450_peo/blob/master/trabalhos/trabalho3.md#pycache)
+

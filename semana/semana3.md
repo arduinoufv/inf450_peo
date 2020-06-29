@@ -11,12 +11,16 @@
 # Atividades e Aulas Assíncronas 
 * [Atividades de Exercicio e Questionário](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex3.md)
 
-* [Aula Assíncrona - Memória]()
-* [Aula Assíncrona - Cache Tempo Médio]()
-* [Aula Assíncrona - Política de Escrita e Preenchimento das Caches]()
-* [Aula Assíncrona - Custo de Mapeamento Direto]()
-* [Aula Assíncrona - Custo de Cache Associativa]()
-* [Aula Assíncrona - Custo de Cache N-Way]()
+* [Aula Assíncrona - Memória](https://youtu.be/0Q59ASpHU1g)
+* [Aula Assíncrona - Cache Tempo Médio](https://youtu.be/Utm1vVPi2Jo)
+* [Aula Assíncrona - Política de Escrita e Preenchimento das Caches](https://youtu.be/8_e6ZDfPrco)
+* [Aula Assíncrona - Custo de Mapeamento Direto](https://youtu.be/PgvVk51asM8)
+* [Aula Assíncrona - Custo de Cache Associativa](https://youtu.be/5G_6uOC9qBk)
+* [Aula Assíncrona - Custo de Cache N-Way exemplo 10 Way](https://youtu.be/5fkNAJU8P2I)
+* [Aula Assíncrona - Custo de Cache N-Way exemplo 2-way com 16 palavras](https://youtu.be/HN_4s1pZCpc)
+* [Aula Assíncrona - Custo de Cache N-Way](https://youtu.be/9ZyITltZo_U)
+
+
 
 # 3.3 Políticas Substituição e Atualização
 * [Substituição](https://docs.google.com/presentation/d/1tujL_KY0_KwfdYuNWBCjragfEx74LGqj61teVQsyeWk/edit?usp=sharing)

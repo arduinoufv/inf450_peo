@@ -20,7 +20,7 @@
 * [Aula Assíncrona - Custo de Cache N-Way exemplo 2-way com 16 palavras](https://youtu.be/HN_4s1pZCpc)
 * [Aula Assíncrona - Custo de Cache N-Way](https://youtu.be/9ZyITltZo_U)
 
-
+* [Aula Assincrona do exemplo 3.2](https://youtu.be/yZWZJ3DaCkk)
 
 # 3.3 Políticas Substituição e Atualização
 * [Substituição](https://docs.google.com/presentation/d/1tujL_KY0_KwfdYuNWBCjragfEx74LGqj61teVQsyeWk/edit?usp=sharing)

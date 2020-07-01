@@ -13,6 +13,7 @@
 
 * [Aula de 2019 - Introduçao a Cache, Memoria, Mapeamento Direto, Associativa e N Way - 1h30min](https://www.youtube.com/watch?v=NBbgC4Wp7qg&feature=youtu.be)
 * [Aula de 2019 - Tempo medio de acesso a Cache, Write-Back e Write-Through, Tipos de Cache, Substituiçao LRU/FIFO/Otima, Exemplos do livro do Patterson/Hennessy ](https://www.youtube.com/watch?v=FoTpw4qRnf0&feature=youtu.be)
+* [Aula de Revisao com exercicios de cache 2019](https://www.youtube.com/watch?v=I306b-yRzPo&feature=youtu.be)
 
 * [Aula Assíncrona - Memória](https://youtu.be/0Q59ASpHU1g)
 * [Aula Assíncrona - Cache Tempo Médio](https://youtu.be/Utm1vVPi2Jo)

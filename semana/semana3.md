@@ -11,6 +11,9 @@
 # Atividades e Aulas Assíncronas 
 * [Atividades de Exercicio e Questionário](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex3.md)
 
+* [Aula de 2019 - Introduçao a Cache, Memoria, Mapeamento Direto, Associativa e N Way - 1h30min](https://www.youtube.com/watch?v=NBbgC4Wp7qg&feature=youtu.be)
+* [Aula de 2019 - Tempo medio de acesso a Cache, Write-Back e Write-Through, Tipos de Cache, Substituiçao LRU/FIFO/Otima, Exemplos do livro do Patterson/Hennessy ] (https://www.youtube.com/watch?v=FoTpw4qRnf0&feature=youtu.be)
+
 * [Aula Assíncrona - Memória](https://youtu.be/0Q59ASpHU1g)
 * [Aula Assíncrona - Cache Tempo Médio](https://youtu.be/Utm1vVPi2Jo)
 * [Aula Assíncrona - Política de Escrita e Preenchimento das Caches](https://youtu.be/8_e6ZDfPrco)

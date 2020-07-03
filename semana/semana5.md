@@ -7,10 +7,10 @@
 
 # 5.4 Sistólicos
 
-# Exemplos com GPU
+# Exemplos de códigos de GPU no GitHub
 
-[exemplos de codigos](https://github.com/dendibakh/GPU_programming)
-[Learn CUDA Programming published by Packt](https://github.com/PacktPublishing/Learn-CUDA-Programming)
+* [exemplos de codigos](https://github.com/dendibakh/GPU_programming)
+* [Learn CUDA Programming published by Packt](https://github.com/PacktPublishing/Learn-CUDA-Programming)
 
 # Introdução a GPU- Material da Nvidia
 

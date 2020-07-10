@@ -10,6 +10,7 @@
 # Exemplos de códigos de GPU no GitHub
 
 * [exemplos de codigos](https://github.com/dendibakh/GPU_programming)
+* [exemplos de codigos](https://github.com/CoffeeBeforeArch/cuda_programming)
 * [Learn CUDA Programming published by Packt](https://github.com/PacktPublishing/Learn-CUDA-Programming)
 
 # Introdução a GPU- Material da Nvidia

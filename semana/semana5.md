@@ -12,6 +12,8 @@
 * [exemplos de codigos](https://github.com/dendibakh/GPU_programming)
 * [exemplos de codigos](https://github.com/CoffeeBeforeArch/cuda_programming)
 * [Learn CUDA Programming published by Packt](https://github.com/PacktPublishing/Learn-CUDA-Programming)
+* [Microbenchmarks](https://github.com/CoffeeBeforeArch/gpu_micro_benchmarking)
+
 
 # Introdução a GPU- Material da Nvidia
 

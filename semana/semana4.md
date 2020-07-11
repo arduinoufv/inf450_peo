@@ -9,6 +9,14 @@
 
 # 4.3 TLB
 
+* [Leia sessao de TLB](https://rigtorp.se/virtual-memory/), depois execute o comando
+
+perf stat -e dTLB-loads,dTLB-load-misses,iTLB-loads,iTLB-load-misses
+
+Para 2 exemplos com multiplicaçao de matrizes (versao simples e versao Tile com 256, 1024, 2096) e 2 exemplos de codigo do trabalho 2 (sort, audio, video,...). Faca uma tabela com os dados monitorados pelo Perf de TLB + tempo de execucao.
+
+* [Para alguns processadores pode encontrar informacoes aqui](https://en.wikichip.org/wiki/WikiChip)
+
 # 4.4 Políticas de Substituição 
 
 

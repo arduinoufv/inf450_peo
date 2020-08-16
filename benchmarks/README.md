@@ -1,3 +1,5 @@
+# Benchmarks no Github e em Blogs
+
 [Multiplicacao de Matrizes do Artigo There's Plenty of Room at the Top: What will drive computer performance after Moore's Law?](https://github.com/neboat/Moore)
 
 [Blog com varias versoes de multiplicacao de Matrizes e explicacoes](https://coffeebeforearch.github.io/2020/06/23/mmul.html)
@@ -8,6 +10,9 @@
 
 [GPU x CPU in Mandelbrot](https://tayfunkayhan.wordpress.com/2020/06/03/mandelbrot-in-floating-point-vs-fixed-point/) - [github](https://github.com/NotCamelCase/MandelbrotFPvsFP)s
 
+# Simuladores
+
+[Gem5 no colab](
 
 # GPUs
 

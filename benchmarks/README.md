@@ -8,7 +8,10 @@
 
 [Quicksort, etc...](https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html)
 
-[GPU x CPU in Mandelbrot](https://tayfunkayhan.wordpress.com/2020/06/03/mandelbrot-in-floating-point-vs-fixed-point/) - [github](https://github.com/NotCamelCase/MandelbrotFPvsFP)s
+[GPU x CPU in Mandelbrot](https://tayfunkayhan.wordpress.com/2020/06/03/mandelbrot-in-floating-point-vs-fixed-point/) - [github](https://github.com/NotCamelCase/MandelbrotFPvsFP)
+
+[Transposicao Matrizes](https://github.com/chrzhang/computer_systems_architecture_and_programming/blob/master/Cache%20Lab/cachelab-handout/trans.c)
+
 
 # Simuladores
 

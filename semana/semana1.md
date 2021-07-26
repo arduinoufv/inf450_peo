@@ -45,14 +45,14 @@
 
 
 ### Preparação para Tarefas
-Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da [Folha de atividades para multiplas unidades](https://docs.google.com/document/d/1_H4PROif7zX79emB2uQxAAEo2Fmr2UtkNiI1GcoOOvM/edit?usp=sharing). Tarefas: Assistir os vídeos, fazer o exercício abaixo, postar a solução do exercício no seu Github e fazer o questionário de avaliação. Data de Entrega das Tarefas: ...
+Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da [Folha de atividades para multiplas unidades de 2020 - Não USAR EM 2021, use do Classroom](https://docs.google.com/document/d/1_H4PROif7zX79emB2uQxAAEo2Fmr2UtkNiI1GcoOOvM/edit?usp=sharing). Tarefas: Assistir os vídeos, fazer o exercício abaixo, postar a solução do exercício no seu Github e fazer o questionário de avaliação. Data de Entrega das Tarefas: ...
 
 
 * [Primeiro Exemplo de Execução - Vídeo 5 minutos](https://youtu.be/F2JXO-GINOg)
 * [Segundo e Terceiro Exemplos - Video 2 minutos](https://youtu.be/dHiv8k4JrPU)
 * [Primeiro Exemplo com Loop - Video 2 minutos](https://youtu.be/8P2jy4S7qXA) - ERRATA - CPI não soma +1 do ciclo de inicio. CPI = Final-inicio/Numero Instrucoes
 * [Segundo exemplo com loop - Video 2 minutos](https://youtu.be/2It4lGZth6Q)
-* [Solução da Folha de Atividades](https://docs.google.com/document/d/1WZe5-GYcZtaTBg4WEL1C5XDJmOkNB1uS4YfJthP5soY/edit?usp=sharing)
+* [Solução da Folha de Atividades de 2020](https://docs.google.com/document/d/1WZe5-GYcZtaTBg4WEL1C5XDJmOkNB1uS4YfJthP5soY/edit?usp=sharing)
 
 ### Tarefas 
 [Faça o exercício 1.1 e depois a avaliação](https://github.com/arduinoufv/inf450_peo/blob/master/exercicio/ex1.md)

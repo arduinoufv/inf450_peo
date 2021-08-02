@@ -89,7 +89,8 @@ Abaixo tem uma sequência de aulas curtas assíncronas resolvendo os exemplos da
 * [Material anterior - Video Março 2020](https://youtu.be/gHNWyNlDLy0)
 
 ## 1.5 Escalonamento dinâmico 
-[Folha de Atividades](https://docs.google.com/document/d/1MgN7hzgopprK_OQvHwNxQX4h9oo6C0T2l3qC-AUrXXk/edit?usp=sharing)
+[Folha de Atividades de 2020 Periodo Outono](https://docs.google.com/document/d/1MgN7hzgopprK_OQvHwNxQX4h9oo6C0T2l3qC-AUrXXk/edit?usp=sharing)
+[Folha de atividades de 2020/2 e 2021/2](https://docs.google.com/document/d/1W19ofIvCMIcWTam78DMwOXRO555nKc80cljbKpRJyCk/edit?usp=sharing)
 
  * [Primeiro Exemplo com Tomasulo](https://youtu.be/9GbUo4_4k6Y)
  * [Segundo Exemplo com Tomasulo](https://youtu.be/KHGXvosM7RY)
